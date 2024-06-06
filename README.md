@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ali falahati
+- 👋 Hi, I’m Ali Falahati
 - 👀 I’m interested in Domain-specific Acceleration, Computer Architecture and Video compression.
 - 📫 How to reach me: Aflt1998@gmail.com
