@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Ali falahati
-- 👀 I’m interested in Hardware design, FPGAs, Games and stuff
-- 🌱 I’m currently learning Digital design
-- 💞️ I’m looking to collaborate on projects related to hardware 
+- 👀 I’m interested in Domain-specific Acceleration, Computer Architecture and Video compression.
 - 📫 How to reach me: Aflt1998@gmail.com
