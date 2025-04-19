@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Ali Falahati
 - 👀 I’m interested in Neural Network Architectures, Transformer-based Models, Efficient Hardware Design, ML & DL, Generative AI and Video Compression.
 - 📫 How to reach me: Aflt1998@gmail.com
-- 
