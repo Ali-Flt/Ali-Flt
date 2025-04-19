@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Ali Falahati
-- 👀 I’m interested in Embedded Software Development, Generative AI, Domain-specific Acceleration, Computer Architecture and Video compression.
+- 👀 I’m interested in Neural Network Architectures, Transformer-based Models, Efficient Hardware Design, ML & DL, Generative AI and Video Compression.
 - 📫 How to reach me: Aflt1998@gmail.com
+- 
